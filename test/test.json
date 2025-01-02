@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/seoung1/CVE/main/test/test.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/seoung1/CVE/main/test/xss.yaml",
+            "name": "seoung"
+        }
+    ]
+}
